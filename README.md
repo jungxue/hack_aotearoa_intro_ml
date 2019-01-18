@@ -2,3 +2,4 @@
 
 - [Instruction from Jenna Wiens](https://github.com/jungxue/hack_aotearoa_intro_ml/blob/master/README.md)
 - [Notes]()
+- [Colab](https://github.com/jungxue/hack_aotearoa_intro_ml/blob/master/colab_worksheet.ipynb)
