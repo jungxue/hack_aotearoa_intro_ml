@@ -2,6 +2,7 @@
 
 Navigate to the workshop materials following this link --> https://goo.gl/a3WnXU
 
+
 **ANACONDA USERS**
 
 If you have successfully installed Anaconda with Python 3.6, then follow these steps:
@@ -10,6 +11,7 @@ If you have successfully installed Anaconda with Python 3.6, then follow these s
 3. Launch Spyder; 
 4. Within Spyder open ‘workshop.py,’ by navigating to File>open and navigating to the 'Hack_Aotearoa' folder and open ‘workshop.py’.
 5. Follow the instructions given in ’Hack_Aotearoa_Workshop_Description.pdf’.
+
 
 **COLAB USERS**
 
