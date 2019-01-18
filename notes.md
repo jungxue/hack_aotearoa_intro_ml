@@ -73,7 +73,7 @@ Higher AUC, better sensitivity/specitivity ratio.
 
 For this particular exercise, the ROC for 2.2b seem to be more jaggered than ROC curve from 2.1d. 
 
-I thought maybe randomness hads something to do with the jaggedness of ROC (ie more randomness will cause greater jaggeredness, if there is no randomness we will have a beautiful smooth curve) but the lecturers doen't seem to be agree, they thought it was due to the difference in intervals that were used. 
+I thought maybe randomness had something to do with the jaggedness of ROC (ie more randomness will cause greater jaggeredness, if there is no randomness we will have a beautiful smooth curve) but the lecturers doen't seem to be agree, they thought it was due to the difference in intervals that were used. 
 
 So, If Roc curve is smooth, this probabily meant that we are using finer intervals. vise evrsa,
 if Roc curve is very jagged, this probabily meant that intervals we use is big. 
