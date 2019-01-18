@@ -10,7 +10,7 @@ ICUType
 
 We have levels of 1,2,3, and 4 and this could imply a step relationship ( ie 4 is 4 times as much as 1), even though we are just using the numbers as indicators and not implying any numeral relationships. 
 
-We could change these 4 variables into 4 variables that contain 0 or 1 (like a dummy or flag variable), converting leveled variable into dummy variables will allow AI to avoid implying numeral relationships bwtween the numbers. 
+We could change the ICUType variable into 4 variables that contain 0 or 1 (like a dummy or flag variable), converting leveled variable into dummy variables will allow AI to avoid implying numeral relationships bwtween the numbers. 
 
 so instead of a variable like 
 
